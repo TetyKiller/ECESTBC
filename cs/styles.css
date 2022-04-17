@@ -2,11 +2,19 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: white;
     overflow:auto;
     font-family: sans-serif;
 }
+body{
+    background:url(/imagenes/1.png);
+    background-size: 45em 75em;
+    background-position: 15% 50%;
+    background-repeat:no-repeat;
+
+
+
+}
 .menu * {
-    padding: 1em;
+    padding: 0.5em;
     margin: 1em;
 }
